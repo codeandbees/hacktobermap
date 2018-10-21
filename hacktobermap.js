@@ -653,4 +653,10 @@
     latitude: "10.157313",
     longitude: "-67.498205"
   },
+     {
+    name: "codeandbees",
+    location: "California, USA",
+    latitude: "34.05",
+    longitude: "-118.24" 
+  },
 ];
